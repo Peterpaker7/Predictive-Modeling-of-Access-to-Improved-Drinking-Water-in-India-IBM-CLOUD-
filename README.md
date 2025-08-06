@@ -76,6 +76,3 @@ Despite ongoing efforts, many regions in India — especially rural and underdev
 * [UN SDG 6: Clean Water & Sanitation](https://sdgs.un.org/goals/goal6)
 * [XGBoost Documentation](https://xgboost.readthedocs.io)
 
----
-
-Let me know if you'd like me to write the `README.md` for this GitHub repo or want a badge-style GitHub header too!

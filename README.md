@@ -63,7 +63,7 @@ Despite ongoing efforts, many regions in India — especially rural and underdev
 ### 🚀 Future Scope
 
 * Add features like income, education, sanitation level
-* Visualize results using maps or dashboards (e.g., Streamlit)
+* Visualize results using maps or dashboards
 * Scale predictions to district or village level for granular insights
 * Integrate with public-facing dashboards for NGOs and policymakers
 

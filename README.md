@@ -14,7 +14,7 @@ The dataset used in this project is publicly available from the **National Sampl
 * `Age Group`
 * `Sector` (Rural / Urban / All)
 * `Gender`
-* `Indicator` (e.g., Access to drinking water, use of clean cooking fuel)
+* `Indicator` (Access to drinking water, use of clean cooking fuel)
 * `Value` (percentage of population related to the indicator)
 
 ---
